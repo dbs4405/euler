@@ -1,3 +1,8 @@
+/* 
+Sum square difference from Project Euler
+https://projecteuler.net/problem=6
+
+*/
 function ssd (n) {
     var sum1 = 0, sum2 = 0;
     for (var i = 1; i <= n; i++) {
